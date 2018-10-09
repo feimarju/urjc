@@ -2,6 +2,7 @@ Receta de tortilla de patatas
 
 Ingredientes:
   - Patatas
+  - sal
 
 Preparación:
   1. Pelar patatas.
